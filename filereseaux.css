@@ -15,12 +15,12 @@ p.Bienvenue {
 }
 a.Channel {
     font-size: 25px;
-    font-family: arial;
-    color: white;
     text-decoration: none;
     display:block;
     text-align:center;
     text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
+    color: orangered;
+    font-family: Arial Black;
 }
 img {
     display:block;
@@ -67,8 +67,39 @@ footer {
     font-family: Arial;
     text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
 }
-a.Channel {
+a.Twitter {
+    font-size: 25px;
+    text-decoration: none;
+    display:block;
+    text-align:center;
+    text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
     color: orangered;
     font-family: Arial Black;
+}
+a.Facebook {
+    font-size: 25px;
+    text-decoration: none;
+    display:block;
+    text-align:center;
     text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
+    color: orangered;
+    font-family: Arial Black;
+}
+a.Instagram {
+    font-size: 25px;
+    text-decoration: none;
+    display:block;
+    text-align:center;
+    text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
+    color: orangered;
+    font-family: Arial Black;
+}
+a.Discord {
+    font-size: 25px;
+    text-decoration: none;
+    display:block;
+    text-align:center;
+    text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
+    color: orangered;
+    font-family: Arial Black;
 }
