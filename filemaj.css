@@ -66,3 +66,11 @@ footer {
     font-family: Arial;
     text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
 }
+p.MiseAJour {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: arial black;
+    font-style: italic;
+    text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
+}
