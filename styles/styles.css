@@ -31,7 +31,7 @@ button:active {
     border-radius: 3px;
     box-shadow: 6px 6px 20px 4px rgba(0, 0, 0, 0.2);
     cursor: pointer;
-    font-family: monospace;
+    font-family: arial black;
     font-size: 2em;
     outline: none;
     padding: 10px;
@@ -48,7 +48,7 @@ button:active {
     border-radius: 3px;
     box-shadow: 6px 6px 20px 4px rgba(0, 0, 0, 0.2);
     cursor: pointer;
-    font-family: monospace;
+    font-family: Arial Black;
     font-size: 2em;
     outline: none;
     padding: 10px;
@@ -173,3 +173,44 @@ a.reseaux {
   img.img {
       height: 500px
   }
+
+img.Réseaux {
+    height: 300px
+}
+
+a.Twitter {
+    font-size: 25px;
+    text-decoration: none;
+    display:block;
+    text-align:center;
+    text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
+    color: gray;
+    font-family: Arial Black;
+}
+a.Facebook {
+    font-size: 25px;
+    text-decoration: none;
+    display:block;
+    text-align:center;
+    text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
+    color: gray;
+    font-family: Arial Black;
+}
+a.Instagram {
+    font-size: 25px;
+    text-decoration: none;
+    display:block;
+    text-align:center;
+    text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
+    color: gray;
+    font-family: Arial Black;
+}
+a.Discord {
+    font-size: 25px;
+    text-decoration: none;
+    display:block;
+    text-align:center;
+    text-shadow: 1px 0 0 black, 0 1px 0 black, 0 -1px 0 black, -1px 0 0 black;
+    color: gray;
+    font-family: Arial Black;
+}
