@@ -1,0 +1,175 @@
+h1 {
+    color: white;
+    font-size: 3em;
+}
+
+.transparent{
+    background-color: #ffffff;
+    opacity: 0.4;
+   }
+
+p {
+    color: gray
+}
+
+
+.buttons_haut:hover{
+    box-shadow: 6px 6px 25px 4px rgba(0, 0, 0, 0.18);
+    transform: scale(1.01);
+    color: white
+}
+button:active {
+    box-shadow: 6px 6px 25px 4px rgba(0, 0, 0, 0.23);
+    transform: scale(0.98)
+}
+
+
+.button_bleu {
+    background-color: #03A9F4;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 6px 6px 20px 4px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 2em;
+    outline: none;
+    padding: 10px;
+    transition: 0.2s;
+    margin-left : 20px;
+    text-align: center;
+    text-decoration: none
+}
+
+.button_blanc {
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 6px 6px 20px 4px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    font-family: monospace;
+    font-size: 2em;
+    outline: none;
+    padding: 10px;
+    transition: 0.2s;
+    margin-left : 20px;
+    text-align: center;
+    text-decoration: none
+}
+
+.logo_douzii{
+    width:75px;
+    height:75px;
+}
+
+.test {
+    position:relative;
+ 
+    top:8px;
+    left:8px;
+}
+
+p {
+    margin: 8px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none
+}
+
+.buttons_haut {
+    border: none;
+    background-color: transparent;
+    outline: none;  
+    color: grey;
+    margin: 8px;
+    font-size: 1em;
+    text-decoration: none
+}
+
+.fleche_bas {
+    width:15px;
+    height:15px;
+    color: grey
+}
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: transparent;
+    color: grey;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {background-color: transparent; color: white}
+
+  a.accueil {
+      text-decoration: none
+  }
+
+
+  a.postuler {
+    text-decoration: none
+}
+
+  a.informations {
+    text-decoration: none
+}
+
+a.maj {
+    text-decoration: none
+}
+
+a.dons {
+    text-decoration: none
+}
+
+a.videos {
+    text-decoration: none
+}
+
+a.reseaux {
+    text-decoration: none
+}
+
+  footer.copyright {
+      color: white
+  }
+
+  img.img {
+      height: 500px
+  }
